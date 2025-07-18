@@ -7,7 +7,7 @@
 📊 Love working on **Data Analytics**, **Machine Learning**, and solving real-world problems.  
 📱 Created projects in **IoT**, **Disaster Management**, and **E-Commerce** platforms.  
 🚀 Actively preparing for **placements** and contributing to **open-source**.  
-📬 Reach me at [your-email@example.com] or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📬 Reach me at lokeshraj3521@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/lokesh-raj3521/)
 
 ---
 
