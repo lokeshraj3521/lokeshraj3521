@@ -11,7 +11,7 @@
 
 ---
 
-🧠 _"Learning never exhausts the mind – it only fuels the next creation."_ ✨
+🧠 _"A "Here we go again" after every project helps."_ ✨
 
 <!--
 **lokeshraj3521/lokeshraj3521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
