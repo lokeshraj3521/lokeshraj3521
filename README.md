@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Lokesh Raj
 
 🎓 Computer Science undergrad passionate about building scalable web and ML solutions.  
-💻 I work with **Python**, **Java**, **C++**, **MySQL**, **HTML/CSS**, and **React**.  
+💻 I work with **Python**, **Java**, **MySQL**, **HTML/CSS**, and **React**.  
 🔧 Currently exploring **FastAPI**, **Docker**, and **MongoDB**.  
 📊 Love working on **Data Analytics**, **Machine Learning**, and solving real-world problems.  
 📱 Created projects in **IoT**, **Disaster Management**, and **E-Commerce** platforms.  
