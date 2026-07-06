@@ -52,8 +52,8 @@ A Python CLI tool that automatically organizes files in a directory by type.
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lokeshraj3521)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]([www.linkedin.com/in/lokesh-raj3521](https://www.linkedin.com/in/lokesh-raj3521/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lokesh-raj3521/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/lokeshraj3521)
 
 ---
 
