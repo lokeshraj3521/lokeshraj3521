@@ -1,29 +1,60 @@
+# Hi, I'm Lokesh 👋
 
-# 👋 Hi, I'm Lokesh Raj
-
-🎓 Computer Science undergrad passionate about building scalable web and ML solutions.  
-💻 I work with **Python**, **Java**, **MySQL**, **HTML/CSS**, and **React**.  
-🔧 Currently exploring **FastAPI**, **Docker**, and **MongoDB**.  
-📊 Love working on **Data Analytics**, **Machine Learning**, and solving real-world problems.  
-📱 Created projects in **IoT**, **Disaster Management**, and **E-Commerce** platforms.  
-🚀 Actively preparing for **placements** and contributing to **open-source**.  
-📬 Reach me at lokeshraj3521@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/lokesh-raj3521/)
+Backend developer focused on building and shipping real products.
+Currently leveling up in **Python · FastAPI · AWS · AI/RAG** to land a backend role at a Bangalore startup.
 
 ---
 
-🧠 _"A "Here we go again" after every project helps."_ ✨
+## 🛠️ What I'm working with
 
-<!--
-**lokeshraj3521/lokeshraj3521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend**
+Python · FastAPI · PostgreSQL · REST APIs · JWT Auth
 
-Here are some ideas to get you started:
+**Cloud & DevOps**
+AWS (EC2, S3, Lambda, RDS) · Docker · GitHub Actions (CI/CD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI & Data**
+LangChain · RAG · FAISS · OpenAI API
+
+**Frontend (light)**
+React · HTML · CSS · JavaScript
+
+---
+
+## 🚀 What I'm building
+
+Currently building a full-stack AI-powered project:
+- FastAPI backend with PostgreSQL
+- RAG feature using LangChain + FAISS (query documents with AI)
+- Deployed on AWS with CI/CD via GitHub Actions
+- React frontend with live URL
+
+> Repo dropping soon — follow to stay updated
+
+---
+
+## 📌 Featured Project
+
+### 🗂️ [FileOrganizer](https://github.com/lokeshraj3521/FileOrganizer)
+A Python CLI tool that automatically organizes files in a directory by type.
+`Python` `CLI` `Automation`
+
+---
+
+## 📈 Currently learning
+
+- FastAPI + async Python backend patterns
+- AWS hands-on deployment (EC2, Lambda, RDS)
+- LangChain RAG pipelines
+- CI/CD with GitHub Actions
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lokeshraj3521)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/lokeshraj3521)
+
+---
+
+*Open to backend / full-stack SDE-1 roles at Bangalore startups · Available from August 2025*
