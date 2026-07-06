@@ -57,4 +57,4 @@ A Python CLI tool that automatically organizes files in a directory by type.
 
 ---
 
-*Open to backend / full-stack SDE-1 roles at Bangalore startups · Available from August 2025*
+*Open to backend / full-stack SDE-1 roles at Bangalore startups · Available from August 2026*
